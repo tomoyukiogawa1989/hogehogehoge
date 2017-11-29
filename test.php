@@ -9,4 +9,5 @@
   echo 'hogehogehogehoge';
   echo 'Tomtom参上！！';
   echo 'yoka';
+  echo 'Tomtom参上！！';
 ?>
