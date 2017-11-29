@@ -7,4 +7,5 @@
   echo 'test';
   echo 'hogehogehogehoge';
   echo 'hogehogehogehoge';
+  echo 'Tomtom参上！！';
 ?>
