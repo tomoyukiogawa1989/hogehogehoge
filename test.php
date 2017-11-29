@@ -9,4 +9,6 @@
   echo 'hogehogehogehoge';
   echo 'Tomtom参上！！';
   echo 'tom';
+
+  echo 'test23'
 ?>
