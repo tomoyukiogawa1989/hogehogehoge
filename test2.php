@@ -9,11 +9,14 @@
   echo 'hogehogehogehoge';
   echo 'Tomtom参上！！';
   echo 'tom';
-  echo 'ばいきんまん、ばいきんまん！';
-  echo 'MOMOKO参上!';
-  echo 'どきんちゃん、どきんちゃん!';
-  echo 'YU-suke参上!';
-  echo 'どきんちゃん、どきんちゃん！';
-  echo 'Yoka参上！'
-  echo 'ばいきんまん、ばいきんまん！'
+  echo 'ばいきんまん、ばいきんまん！<br>';
+  echo 'MOMOKO参上!<br>';
+  echo 'momo';
+  echo 'どきんちゃん、どきんちゃん!<br>';
+  echo 'YU-suke参上!<br>';
+  echo 'yu-suke';
+  echo 'どきんちゃん、どきんちゃん！<br>';
+  echo 'Yoka参上！<br>'
+  echo 'yoka';
+  echo 'ばいきんまん、ばいきんまん！<br>'
 ?>
