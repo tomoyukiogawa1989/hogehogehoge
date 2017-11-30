@@ -8,5 +8,5 @@
   echo 'hogehogehogehoge';
   echo 'hogehogehogehoge';
   echo 'Tomtom参上！！';
-  echo 'MOMOKO参上';
+  echo 'MOMOKO参上!';
 ?>
