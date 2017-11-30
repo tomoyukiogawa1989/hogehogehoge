@@ -7,7 +7,8 @@
   echo 'test';
   echo 'hogehogehogehoge';
   echo 'hogehogehogehoge';
-  echo 'Tomtom参上！！';
+  echo 'Tomtom参上！！<br>';
   echo 'tom';
+  echo 'ノーパンティー<br>'
   echo 'MOMOKO参上!';
 ?>
