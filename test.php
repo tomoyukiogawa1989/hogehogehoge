@@ -6,7 +6,12 @@
   echo '5回目コミットするぞ〜<br>';
   echo 'test';
   echo 'hogehogehogehoge';
-  echo 'hogehogehogehoge';
-  echo 'Tomtom参上！！';
-  	echo 'パンティパンティ';
+  echo 'hogehogehogehoge<br>';
+  echo 'Tomtom参上！！<br>';
+  echo 'パンティパンティ';
+  echo 'パンティパンティ！<br>'
+  echo 'Yuji参上!';
+  echo 'ノーパンティ、ノーパンティ!<br>';
+  echo 'ノーパンティ、ノーパンティ!<br>';
+  //yujiさん本当にノーパンティ好きですよねw
 ?>
