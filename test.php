@@ -6,7 +6,7 @@
   echo '5回目コミットするぞ〜<br>';
   echo 'test';
   echo 'hogehogehogehoge';
-  echo 'hogehogehogehoge';
+  echo 'hogehogehogehoge';hjhjkhkh
   echo 'Tomtom参上！！';
   echo 'Fernando Torres!!';
 ?>
